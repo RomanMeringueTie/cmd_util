@@ -28,5 +28,7 @@
 - Gradle (версия 8.5)
 # Пример использования
 ```sh
-./gradlew build
+cd out\artifacts\CFT_main_jar
+java -jar CFT.main.jar <arguments>
 ```
+Аргументы могут прописываться в любом порядке.
